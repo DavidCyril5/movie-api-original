@@ -1,0 +1,6 @@
+name = "movie-api-original"
+main = "worker.js"
+compatibility_date = "2025-08-18"
+
+[observability]
+enabled = true
